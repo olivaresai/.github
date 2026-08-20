@@ -20,5 +20,3 @@ Olivares AI is an open, self-hostable product to **discover, operate and govern 
 - **[olivares.ai](https://olivares.ai)** — website and documentation.
 - **Security:** report vulnerabilities privately per [SECURITY.md](https://github.com/olivaresai/olivares/blob/main/SECURITY.md) — never via a public issue.
 - **Commercial licensing:** `enterprise@olivares.ai` ([details](https://github.com/olivaresai/olivares/blob/main/LICENSING.md)).
-
-Also from Olivares.AI: **[Alma](https://alma.olivares.ai)** — a SaaS AI workspace (chat, image, video, audio and creative studios) built on a persistent, visual, manageable memory system.
