@@ -25,4 +25,4 @@ Olivares is the base layer for AI work, the way Linux and systemd are for an ope
 | **Business · Enterprise** | Every capability family in one subscription, delivered as binaries. [Licensing](https://github.com/olivaresai/olivares/blob/main/LICENSING.md) · `enterprise@olivares.ai` |
 | **Security** | Report vulnerabilities privately, per [SECURITY.md](https://github.com/olivaresai/olivares/blob/main/SECURITY.md). |
 
-<sub>Beta. Releases are named by year and month: 26.10 is October 2026.</sub>
+<sub>Beta. Versions are X.Y: 0.x until 1.0, and 2.0 only for a breaking change.</sub>
